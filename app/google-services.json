@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312211077470",
+    "firebase_url": "https://khoj-2350f.firebaseio.com",
+    "project_id": "khoj-2350f",
+    "storage_bucket": "khoj-2350f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312211077470:android:e3f8200b8ced335e4ff7cf",
+        "android_client_info": {
+          "package_name": "com.khonj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312211077470-9orce2eo4744fpccidrm6c20pn9vstqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khonj",
+            "certificate_hash": "75e2b280fca50f25f61671fd720aaaa318e3465d"
+          }
+        },
+        {
+          "client_id": "312211077470-jhdt1olrlivd8oiv6mp369q0q8qrip2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLq0MBE5PvWoWe9hCaTWFpThtLD9Z4bFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312211077470-jhdt1olrlivd8oiv6mp369q0q8qrip2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
